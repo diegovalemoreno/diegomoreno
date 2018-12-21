@@ -9,7 +9,7 @@ no repositório do ilustre **[Tierney Cyren](@bitandbang)**
 
 No caso aqui, estou usando os meus dados para criar o meu Cartão Pessoal. O pacote, que nesse caso é o meu cartão pessoal, encontra-se disponível no site do **npmjs** pelo link: 
 
-- Cartão Pessoal Glaucia Lemos: **[diegomoreno](https://www.npmjs.com/package/diegomoreno)**
+- Cartão Pessoal Diego Moreno: **[diegomoreno](https://www.npmjs.com/package/diegomoreno)**
 
 Para instalar o package do meu cartão pessoal, bastam executar o seguinte comando abaixo:
 
